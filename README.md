@@ -8,4 +8,4 @@ Update a product by ID
 Delete a product by ID
 Additionally, the project handles custom exceptions and returns appropriate HTTP responses.
 
-* Features
+# Features
