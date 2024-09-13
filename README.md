@@ -15,3 +15,11 @@ Additionally, the project handles custom exceptions and returns appropriate HTTP
 * Update Product by ID: Updates the details of a product using its ID.
 * Delete Product by ID: Deletes a product using its ID.
 * Exception Handling: Handles custom exceptions (e.g., ProductNotFoundException), with appropriate HTTP status codes and error messages.
+
+
+# Technologies & Tools Used
+* Java: Version 17+
+* Spring Boot: Version 3.0+
+* JPA (Java Persistence API): For database interactions
+* MySQL Database: Database for testing
+* Postman: For testing APIs 
