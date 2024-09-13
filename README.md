@@ -9,9 +9,9 @@ Delete a product by ID
 Additionally, the project handles custom exceptions and returns appropriate HTTP responses.
 
 # Features
-Add Product: Adds a new product to the warehouse.
-Get All Products: Retrieves all products from the warehouse.
-Get Product by ID: Fetches a specific product by its ID.
-Update Product by ID: Updates the details of a product using its ID.
-Delete Product by ID: Deletes a product using its ID.
-Exception Handling: Handles custom exceptions (e.g., ProductNotFoundException), with appropriate HTTP status codes and error messages.
+* Add Product: Adds a new product to the warehouse.
+* Get All Products: Retrieves all products from the warehouse.
+* Get Product by ID: Fetches a specific product by its ID.
+* Update Product by ID: Updates the details of a product using its ID.
+* Delete Product by ID: Deletes a product using its ID.
+* Exception Handling: Handles custom exceptions (e.g., ProductNotFoundException), with appropriate HTTP status codes and error messages.
